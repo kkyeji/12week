@@ -1,0 +1,4 @@
+ [<a class="goDrinkView" href="javascript:void(0)" prod="9200000002487"><img alt="나이트로 바닐라 크림" src="https://image.istarbucks.co.kr/upload/store/skuimg/2019/09/[9200000002487]_20190919181354811.jpg"/></a>,
+<a class="goDrinkView" href="javascript:void(0)" prod="9200000002672"><img alt="제주 비자림 콜드 브루" src="https://image.istarbucks.co.kr/upload/store/skuimg/2020/02/[9200000002672]_20200220135658603.jpg"/></a>, 
+<a class="goServiceView" f_cate="//W0000001" href="javascript:void(0)" prod="9200000002757"><img alt="피치 젤리 아이스 티" src="https://image.istarbucks.co.kr/upload/store/skuimg/2020/04/[9200000002757]_20200403132717643.jpg"/></a>,
+<a class="goServiceView" f_cate="//W0000001" href="javascript:void(0)" prod="9200000002754"><img alt="피치 젤리 핫 티" src="https://image.istarbucks.co.kr/upload/store/skuimg/2020/04/[9200000002754]_20200403132406524.jpg"/></a>]]
